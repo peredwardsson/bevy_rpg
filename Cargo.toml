@@ -1,0 +1,8 @@
+[package]
+name = "bevy-test"
+version = "0.1.0"
+authors = ["Per Edwardsson <per@peredwardsson.se>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.2"
